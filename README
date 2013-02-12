@@ -3,7 +3,7 @@ This is a simple smith chart plotting windows utility written in just BASIC.
 This software is distrubuted under BSD license.
 
 Just enter characterstic impedence and input impedence and click on plot to 
-plot the Smith chart. You can also save the plot as bit map image.
+plot the Smith chart. You can also save the plot as bit map images.
 
 Open "help.htm" in our browser for detailed help.
 

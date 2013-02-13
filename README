@@ -2,9 +2,15 @@ This is a simple smith chart plotting windows utility written in just BASIC.
 
 This software is distrubuted under BSD license.
 
-Just enter characterstic impedence and input impedence and click on plot to 
+Just enter characteristic impedence and input impedence and click on plot to 
 plot the Smith chart. You can also save the plot as bit map images.
 
 Open "help.htm" in our browser for detailed help.
 
 Please report bugs at navin.bhaskar.5(at)gmail.com 
+
+Compile/Build instructions:
+---------------------------
+Get the just basic from here http://justbasic.com/download.html
+Start JB and then browse and open "smith.bas".
+Click on "run" icon from tool bar to compile and start the program.
